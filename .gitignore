@@ -1,3 +1,6 @@
+.well-known/
+.htaccess
+
 # Logs
 logs
 *.log
